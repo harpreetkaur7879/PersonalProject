@@ -9,6 +9,7 @@ Note: As I have created  a  dynamic  website and GitHub supports static projects
 It is not possible to get input from the user if hosted on GitHub.
 
 
+
 Screen 1:-
 The very first page of my site.
 
